@@ -3,6 +3,22 @@
 
 This is a command-line **Expense Tracker** built in **Java**. It reads expense records from a CSV file and provides spending insights.
 
+Subject: Assignment Submission – Expense Tracker
+
+Hello,
+
+Please find my submission for the Expense Tracker assignment.
+I’ve implemented the project using Java, as I am more comfortable with it.
+
+I am genuinely interested in learning and improving my skills — if you give me the opportunity, I will definitely put in the effort to learn and complete this in Python as well.
+
+Thank you for your time and consideration.
+
+Best regards,
+Pooja Kumari
+
+
+
 ## ✅ Features
 
 - Reads expense data from a CSV file
